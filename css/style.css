@@ -1,0 +1,14 @@
+.para{
+    line-height: 30px;
+    text-align: justify;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: large;
+}
+#sample{
+    color: aquamarine;
+    background-color: blue;
+    text-align: center;
+}
